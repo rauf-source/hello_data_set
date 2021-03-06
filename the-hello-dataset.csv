@@ -1,0 +1,79 @@
+﻿Email Address,Name,Registration_Number,Section,Gender,HSSC-1,HSSC-2,CGPA,Favorite_Subject,Subject_Highest_Marks,Favorite_Programming_Language,Mobile_OS,Desktop_OS
+sp19-bse-019@cuilahore.edu.pk,Hamza Javed Khan,sp19-bse-019,B,Male,400,405,2.96,Database,Object oriented software engineering,java,Android,Windows
+sp19-bse-017@cuilahore.edu.pk,Seerat Salman,SP19-BSE-017/Lhr,B,Male,397,435,3.16,"ISE, ICT, SRE","ICT, ISE, FA",java,Android,Windows
+sp19-bse-053@cuilahore.edu.pk,Tayyab Ahmad,SP19-BSE-053,B,Male,336,440,2.42,Object Oriented Software Engineering,Linear Algebra ,Programming Fundamentals,Android,Windows
+sp19-bse-123@cuilahore.edu.pk,Shahzada Mujahid Raza,SP19-BSE-123,B,Male,814,863,2.6,introduction to software engineering,financial accounting,C,Android,Windows
+sp19-bse-005@cuilahore.edu.pk,NOOR TARIQ RANA,SP19-BSE-005,B,Female,863,770,2.86,"Database, Cal 1,2, ISE",Statistics,"Database,C",Android,Windows
+sp19-bse-032@cuilahore.edu.pk,Bashara Tehseen Liaqat,SP19-BSE-032,B,Female,368,829,3.1,Multivariable Calculus,Multivariable Calculus,Java,Android,Windows
+sp19-bse-035@cuilahore.edu.pk,Syeda Maham Gillani,sp19-bse-035,B,Female,412,408,3.35,object oriented programming,object oriented programming,java,Android,Windows
+sp19-bse-126@cuilahore.edu.pk,Muhammad Al Fahad,SP19-BSE-126,A,Male,412,512,3.12,"Database, OOP",financial accounting 4.0 gpa,python,Android,Windows
+sp19-bse-001@cuilahore.edu.pk,Daniyal Rasheed,Sp19-Bse-001,A,Male,437,436,2.98,Intro to Software Engineering,91,Java,iOS,Windows
+sp18-bse-019@cuilahore.edu.pk,Muhammad Ammar Khalid,SP18-BSE-019,B,Male,368/510,768/1100,2.32,Web Technology,Game Developement and Web Technology,C++ and JavaScript,Android,Windows
+fa18-bse-012@cuilahore.edu.pk,Muhammad Fahad,fa18-bse-012,A,Male,418,473,2.71,C Programming,Islamic Studies,python,Android,Windows
+sp19-bse-106@cuilahore.edu.pk,Zameet Khalid,CIIT/SP19-BSE-106/LHR,A,Male,350,400,2.69,Object Oriented Software Engineering,Object Oriented Software Engineering,Java,Android,Windows
+fa18-bse-108@cuilahore.edu.pk,Ahsan Rana,FA18-BSE-108,A,Male,400,434,2.8,object oriented programming,Report Writing,Java,Android,Windows
+sp19-bse-073@cuilahore.edu.pk,Muhammad Afzal,SP19-BSE-073,A,Male,398,791,2.98,Mathematics,Mathematics,C and java,Android,Windows
+sp19-bse-138@cuilahore.edu.pk,Muhammad zafar ijaz khan,sp19-bse-138,A,Male,421,380,2.93,Database system,Islamiat,PHP,Android,Windows
+sp19-bse-043@cuilahore.edu.pk,Abdul Rauf,sp19-bse-043,A,Male,438,799,3.53,Object Oriented Engineering,Object Oriented Programming,C++,Android,Windows
+sp19-bse-061@cuilahore.edu.pk,Suleman Ahsan,sp19-bse-061,A,Male,370,430,2.8,Calculus 1,Calculus 1,PHP,Android,Windows
+sp19-bse-007@cuilahore.edu.pk,MOEEN AHMAD,SP19-BSE-A-007,A,Male,404,361,2.52,ICT,STATS (3.3) & ICT (3.3),C and C++,Android,Windows
+sp19-bse-059@cuilahore.edu.pk,Ahmad Khaid,SP19-BSE-059,B,Male,422,409,3,OOP,"Software Engg , Sats",Java,Android,Windows
+sp19-bse-038@cuilahore.edu.pk,Abubakar,SP19-BSE-038,B,Male,402,816,2.95,OOP,Calculus,Java,Android,Windows
+sp19-bse-050@cuilahore.edu.pk,Abdullah Waqar,SP19-BSE-050,A,Male,319,342,2.8,Object Oriented Programming,Object Oriented Software Engineering,Python,Android,Windows
+sp19-bse-150@cuilahore.edu.pk,shakira hafeez,sp19-bse-150,A,Female,402,459,2.7,programming fundamentals,programming fundamentals,cpp,Android,Windows
+sp19-bse-049@cuilahore.edu.pk,Mutyyab Ul Hassan Khan,SP19-BSE-049,A,Male,383,365,2.7,ISE,Object Oriented Software Engineering,Javascript,Android,Windows
+sp19-bse-029@cuilahore.edu.pk,Mahmood Ahmad,SP19-BSE-029,B,Male,410,425,2.73,DLD,Statistics and Probability Theory,Java,iOS,Windows
+sp19-bse-070@cuilahore.edu.pk,Muhammad Hammad Ejaz,SP19-BSE-070,A,Male,401,403,3.12,Object Oriented Programming,Object Oriented Software Engineering,Python,Android,Windows
+sp19-bse-080@cuilahore.edu.pk,GHULAM MUSTAFA SHIEKH,CIIT/SP19-BSE-080/LHR,B,Male,385,390,2.69,Calculus,Calculus and Analytic Geometry,Java,Android,Windows
+sp19-bse-056@cuilahore.edu.pk,Hina,SP19-BSE-056,B,Female,410,394,2.94,Calculus ,"calculus,Statistics ",oop ,iOS,Macintosh
+sp19-bse-140@cuilahore.edu.pk,HAMNA TARIQ SALEEMI,SP19-BSE-140,B,Female,400,430,2.91,ECA,Calculus,Oop,Android,Windows
+sp19-bse-139@cuilahore.edu.pk,Danish Ahmed,SP19-BSE-139,B,Male,435,448,2.81,OOP,Calculus and Analitical Geometry,JS,Android,Windows
+sp19-bse-046@cuilahore.edu.pk,Muhammad Usman,SP19-BSE-046,A,Male,410,400,2.81,PROGRAMMING LANGUAGES ,MATH,JAVA,Android,Windows
+sp19-bse-135@cuilahore.edu.pk,Muhammad Shahmeer,SP19-BSE-135,B,Male,365,428,3.4,OBJECT ORIENTED PROGRAMMING (OOP),"OOP, ISE, OOSE",JAVA,Android,Windows
+sp19-bse-101@cuilahore.edu.pk,Hamayoun Masroor,SP19-BSE-101,B,Male,900,900,3.45,Database ,"Database, C ,OPP ","C,OPP,Java",Android,Windows
+sp19-bse-132@cuilahore.edu.pk,Parsa riaz,Sp19-bse-132,A,Female,393,829,2.87,Data structures and algorithm ,Calculus,Oop,Android,Windows
+sp19-bse-014@cuilahore.edu.pk,Muhammad Ibrahim Khalil,Sp19-bse-014,B,Male,340,346,2.58,ICT,Report writing,Java,Android,Windows
+sp19-bse-153@cuilahore.edu.pk,Syed Ali Raza Shah Bukhari,CIIT/SP19-BSE-153/LHR,B,Male,293,279,2.76,introduction to software engineering,Islamic studies,C,Android,Windows
+sp19-bse-010@cuilahore.edu.pk,Hafiz Malahim Labib.,SP19-BSE-010.,A,Male,390,420,2.84.,OOP(Object Oriented Programming).,OOSE(Object Oriented Software Engineering).,C-Language.,Android,Windows
+sp19-bse-040@cuilahore.edu.pk,Mubashar ali,SP19-BSE-040,A,Male,401,469,3.19,OOP(JAVA),Linear Algebra,JAVA,Android,Windows
+sp19-bse-089@cuilahore.edu.pk,Moiz Haider,SP19-BSE-089,B,Male,438,346,3.05,OOP,Calculus,Java,Android,Windows
+sp19-bse-031@cuilahore.edu.pk,Abdul Rehman,SP19-BSE-031,A,Male,420,340,3.11,Java,java and C,"JAVA ,C, C++",Android,Windows
+sp19-bse-116@cuilahore.edu.pk,M Abubakar Malik,Sp19-bse-116,B,Male,410,386,2.9,Calculus and Analytical Geometry ,Calculus and Analytical Geometry,Java,iOS,Windows
+sp19-bse-149@cuilahore.edu.pk,Aftab Ahmad Khan,SP19-BSE-149,A,Male,494,490,3.16,OOP,OOP,Java,iOS,Windows
+sp19-bse-122@cuilahore.edu.pk,Osama Nadeem Khan ,SP19-BSE-122\LHR,A,Male,350,466,2.79,Communication Skills ,Report Writing Skills ,Java,Android,Windows
+sp19-bse-100@cuilahore.edu.pk,Taha Ishfaq,SP19-BSE-100,A,Male,415,415,2.8,Object-Oriented Progamming Language,Introduction To ICT & OSSE,Python & Java,Android,Windows
+sp19-bse-058@cuilahore.edu.pk,Hussain afzal,sp19-bse-058,A,Male,415,817,2.81,datab2,database,java,Android,Windows
+sp19-bse-045@cuilahore.edu.pk,Maheen Iftikhar,SP19-BSE-045,A,Female,358,401,2.85,Data Structure And Algorithm,Data Structure And Algorithm,C language,Android,Windows
+sp19-bse-088@cuilahore.edu.pk,Mohsin Nawaz,SP19-BSE-088,A,Male,376,365,2.59,Intro to SE,Statistics and Probability ,C Language ,iOS,Windows
+sp19-bse-034@cuilahore.edu.pk,Zeeshan Fiaz,sp19-bse-034,B,Male,423,423,2.88,OOP,Calculus and Analytical Geometry,Java,Android,Windows
+sp19-bse-071@cuilahore.edu.pk,Abdullah Arshad,sp19-bse-071,B,Male,386,350,2.84,object oriented programming,Statistics,Java,Android,Windows
+sp19-bse-151@cuilahore.edu.pk,Umer Nadeem,SP19-BSE-151 ,A,Male,996,825,2.78,Introduction to Software engineering ,Stats,Python,Android,Windows
+sp19-bse-008@cuilahore.edu.pk,Semal saqib,Sp19-bse-008,A,Female,415,441,2.78,Programming fundamentals ,Calculus,C,iOS,Windows
+sp19-bse-022@cuilahore.edu.pk,Shaanze Basharat,Sp19-bse-022,A,Female,431,442,2.9,Intro to software engineering ,Financial accounting,None,iOS,Windows
+sp19-bse-083@cuilahore.edu.pk,Shadab Gull,sp19-bse-083,A,Female,447,919,2.8,Financial Accounting,Financial Accounting,C language,Android,Windows
+sp19-bse-041@cuilahore.edu.pk,MUHAMMAD SAIF ULLAH,SP19-BSE-041,B,Male,293,405,3.25,"FINANCIAL ACCOUNTING, PROGRAMMING FUNDAMENTAL, OBJECT ORIENTED PROGRAMMING, DATABASE",FINANCIAL ACCOUNTING,"C, C#, JAVA, PYTHON",Android,Windows
+sp19-bse-047@cuilahore.edu.pk,Abdullah Anwar,SP-bse-047,B,Male,380,390,2.4,Calculus,Accounting,Php,Android,Windows
+sp19-bse-130@cuilahore.edu.pk,M.Abdul Mateen Alam,SP19-BSE-130,B,Male,345,410,2.57,OBJECT OREINTED SOFTWARE ENGINEERING,OBJECT OREINTED SOFTWARE ENGINEERING,PYTHN,Android,Windows
+sp19-bse-067@cuilahore.edu.pk,Aqsa Rafiq ,Sp19-bse-067 ,A,Female,423,437,2.69,Financial accounting ,Financial accounting ,Database,Android,Windows
+sp19-bse-068@cuilahore.edu.pk,Muhammad Usman,sp19-bse-068,B,Male,440,450,2.62,data science,math,java,Android,Windows
+sp19-bse-118@cuilahore.edu.pk,Umar Wasim,SP19-BSE-118,A,Male,364,440,3.22,OOP,OOP and some more,Java,Android,Windows
+sp19-bse-097@cuilahore.edu.pk,MUHAMMAD HAIDER AWAN,sp19-bse-097,A,Male,60%,674,2.51,Report writing,Report writing,Python,Android,Windows
+sp19-bse-112@cuilahore.edu.pk,Sobel Bhatti,sp19-bse-112(A),A,Male,369,394,2.56,Oop(Java),Oose,Java,Android,Windows
+fa18-bse-064@cuilahore.edu.pk,Muhammad Adeel,FA18-BSE-064,A,Male,410,408,2.95,Mathematics,Linear Algebra,C,Android,Windows
+sp19-bse-142@cuilahore.edu.pk,Sohaib hasan,sp19-bse-142,A,Male,400,432,2.6,oop,Islamiat,java,Android,Windows
+sp19-bse-127@cuilahore.edu.pk,Ahmar Hafeez Khan,SP19-BSE-127,B,Male,437,440,3.47,OOP,Calculus,Java,Android,Windows
+fa17-bse-070@cuilahore.edu.pk,Hamza Naveed,Fa17-bse-070 ,B,Male,954,832,2.4,Web Development ,Stats ,C,Android,Windows
+sp19-bse-074@cuilahore.edu.pk,Kiran Rai,SP19-BSE-074,B,Female,437,464,3.2,Calculus,Islamyat,C,Android,Windows
+sp19-bse-121@cuilahore.edu.pk,Ali Mohsin,SP19-BSE-121,A,Male,452,370,3.06,Programing Fundamentals,Programing Fundamentals,C,Android,Windows
+sp19-bse-013@cuilahore.edu.pk,Muhammad Awais,SP19-BSE-013,A,Male,401,402,3.01,OOP,OOSE,Java,iOS,Windows
+sp19-bse-104@cuilahore.edu.pk,Adeel Masih,SP19-BSE-104,B,Male,415,849,2.6,Linear Algebra,Linear Algebra,Object Oriented Language,Android,Windows
+sp19-bse-002@cuilahore.edu.pk,Abdul Hadi Khan,SP19-BSE-002,B,Male,315,277,2.52,Introduction to Software Engineering and Introduction to ICT. ,Financial Accounting and Report Writing Skills. ,JAVA,Android,Windows
+fa17-bcs-062@cuilahore.edu.pk,Muhammad Bilal Aslam,FA17-BCS-062,A,Male,421,824,2.45,Web Technologies,4,Java,Android,Windows
+sp19-bse-082@cuilahore.edu.pk,Dil Muhammad,SP19-BSE-082,A,Male,351,427,2.81,Object Oriented Programming,Calculus,Java,Android,Windows
+sp19-bse-103@cuilahore.edu.pk,Habib Ullah,SP19-BSE-103,A,Male,399,422,2.83,Intro to Data Science,Data Structure,Java,iOS,Windows
+sp19-bse-094@cuilahore.edu.pk,Irtaza Mubarik,SP19-BSE-094,A,Male,318,345,2.71,Islamiyat,Object Oriented Software Engineering,Python,Android,Windows
+sp19-bse-004@cuilahore.edu.pk,Qasim Tariq,SP19-BSE-004,A,Male,792,724,2.7,OOSE,OOSE,CPP,Android,Windows
+sp19-bse-109@cuilahore.edu.pk,shafaqat ali,sp19-bse-109,A,Male,424,434,3.06,programmingfundamenls,calculas,oop,Android,Windows
+sp19-bse-115@cuilahore.edu.pk,Syed Ali Mehdi,SP19-BSE-115,A,Male,384,755 (total),3.05,OOP (java),"Accounting, ISE, OOSE and hybrids ",Java,Android,Windows
+sp19-bse-155@cuilahore.edu.pk,NAVEED JAMEEL,SP19-BSE-155,A,Male,408,856,3.3,OOP,OOP,JAVA,iOS,Windows
+sp19-bse-044@cuilahore.edu.pk,Ali Hassan,sp19-bse-044@cuilahore.edu.pk,A,Male,419,848,2.92,Financial Accounting,Islamiat,Java,Android,Windows
